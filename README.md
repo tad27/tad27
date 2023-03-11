@@ -47,11 +47,10 @@ I'm a frontend developer focused on building responsive, accessible, and user-fr
 <div width="100%" align="center"><a href="https://github.com/tad27/portfolio-client" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tad27&repo=portfolio-client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/tad27/netflix-clone" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tad27&repo=netflix-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<details> 
+  <summary><h2>📘 My Top Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+
   <p align="left">
     <a href="https://github.com/tad27/portfolio-client"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tad27&repo=portfolio-client&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="My Portfolio's Client Code"></a>
     <a href="https://github.com/tad27/netflix-clone"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tad27&repo=netflix-clone&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Netflix Clone"></a>
