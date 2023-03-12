@@ -9,7 +9,7 @@ I'm a frontend developer focused on building responsive, accessible, and user-fr
 * 🌍  I'm based in Addis Ababa
 * 🖥️  See my portfolio at [link](http://tadesse.vercel.app)
 * ✉️  You can contact me at [tadesseakele27@gmail.com](mailto:tadesseakele27@gmail.com)
-* 🧠  I'm currently learning [Next JS](https://nextjs.org/)
+* 🧠  I'm currently learning [Next JS](https://nextjs.org/) and [Prisma](https://www.prisma.io/)
 
 ### Skills
 
