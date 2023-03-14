@@ -42,7 +42,7 @@ I'm a frontend developer focused on building responsive, accessible, and user-fr
 
 
 
-<details> 
+<details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
 
